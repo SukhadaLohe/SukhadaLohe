@@ -1,7 +1,7 @@
 ## Hi, I'm Sukhada Lohe!👋
 - 🌱 I’m a 1st year  Computer Engineering student
 - 🔭 I’m currently learning python
-- 💤 Fun Fact: I fix one bug and create three more — it's a talent
+- 🔥 Fueled by passion, powered by code
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukhada-lohe/) 
