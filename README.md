@@ -15,8 +15,6 @@
 # 📊 GitHub Stats:
 ![Sukhada's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukhadaLohe&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SukhadaLohe&theme=bear)](https://git.io/streak-stats)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhadaLohe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
