@@ -1,6 +1,6 @@
 ## Hi, I'm Sukhada Lohe!👋
-- 🌱 I’m a 1st year  Computer Engineering student
-- 🔭 I’m currently learning python
+- 🌱 I’m a 3rd year  Computer Engineering Student
+- 🐍 Python | 🗄️ MySQL | 📈 Power BI | 📑 Microsoft Excel | 📊 Data Analytics
 - 🔥 Fueled by passion, powered by code
 
 ## 🌐 Socials:
@@ -11,12 +11,9 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-# 📊 GitHub Stats:
-![Sukhada's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukhadaLohe&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhadaLohe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
 
